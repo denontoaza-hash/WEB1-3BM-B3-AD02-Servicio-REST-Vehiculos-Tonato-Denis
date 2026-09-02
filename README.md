@@ -10,7 +10,7 @@ Proyecto desarrollado para la asignatura Programación Web I.
 
 El proyecto implementa un servicio web REST para la gestión de vehículos utilizando .NET, SQL Server y Entity Framework Core.
 
-El servicio permite realizar operaciones de consulta, registro, actualización y eliminación de vehículos mediante una API REST.
+El servicio permite realizar operaciones de consulta, registro, actualización y eliminación de mantenimientos en vehículos mediante una API REST.
 
 
 
