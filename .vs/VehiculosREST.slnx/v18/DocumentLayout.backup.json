@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion web\\VehiculosREST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|c:\\programacion web\\vehiculosrest\\vehiculosrest\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|solutionrelative:vehiculosrest\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|c:\\programacion web\\vehiculosrest\\vehiculosrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|solutionrelative:vehiculosrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|c:\\programacion web\\vehiculosrest\\vehiculosrest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|solutionrelative:vehiculosrest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|c:\\programacion web\\vehiculosrest\\vehiculosrest\\data\\vehiculosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|solutionrelative:vehiculosrest\\data\\vehiculosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|c:\\programacion web\\vehiculosrest\\vehiculosrest\\models\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|solutionrelative:vehiculosrest\\models\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|c:\\programacion web\\vehiculosrest\\vehiculosrest\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|solutionrelative:vehiculosrest\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|c:\\programacion web\\vehiculosrest\\vehiculosrest\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4913421-5C22-4FE0-898C-C1A58A600B44}|VehiculosREST\\VehiculosREST.csproj|solutionrelative:vehiculosrest\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Program.cs",
+              "RelativeDocumentMoniker": "VehiculosREST\\Program.cs",
+              "ToolTip": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Program.cs",
+              "RelativeToolTip": "VehiculosREST\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:09:52.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\appsettings.json",
+              "RelativeDocumentMoniker": "VehiculosREST\\appsettings.json",
+              "ToolTip": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\appsettings.json",
+              "RelativeToolTip": "VehiculosREST\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-01T23:09:34.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MantenimientoController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Controllers\\MantenimientoController.cs",
+              "RelativeDocumentMoniker": "VehiculosREST\\Controllers\\MantenimientoController.cs",
+              "ToolTip": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Controllers\\MantenimientoController.cs",
+              "RelativeToolTip": "VehiculosREST\\Controllers\\MantenimientoController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:01:03.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiculosDbContext.cs",
+              "DocumentMoniker": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Data\\VehiculosDbContext.cs",
+              "RelativeDocumentMoniker": "VehiculosREST\\Data\\VehiculosDbContext.cs",
+              "ToolTip": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Data\\VehiculosDbContext.cs",
+              "RelativeToolTip": "VehiculosREST\\Data\\VehiculosDbContext.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv1gAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:00:20.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mantenimiento.cs",
+              "DocumentMoniker": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Models\\Mantenimiento.cs",
+              "RelativeDocumentMoniker": "VehiculosREST\\Models\\Mantenimiento.cs",
+              "ToolTip": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Models\\Mantenimiento.cs",
+              "RelativeToolTip": "VehiculosREST\\Models\\Mantenimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:00:00.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "VehiculosREST\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "VehiculosREST\\Models\\Vehiculo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:59:43.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "VehiculosREST\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Programacion web\\VehiculosREST\\VehiculosREST\\Models\\Categoria.cs",
+              "RelativeToolTip": "VehiculosREST\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:59:19.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
